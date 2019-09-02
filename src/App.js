@@ -6,7 +6,7 @@
 // > yarn deploy
 // > git add -A
 // > git commit -m "initial version"
-// > 
+// > ggpush
 
 
 import React, { Component } from 'react';
