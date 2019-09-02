@@ -1,3 +1,6 @@
+
+// to remove a remote origin:
+// > git remote rm origin
 // > git remote add origin https://github.com/jcrist70/monsters-rolodex.git
 // > yarn add gh-pages
 // in package.json ->  
@@ -6,7 +9,7 @@
 // > yarn deploy
 // > git add -A
 // > git commit -m "initial version"
-// > ggpush
+// > git push origin master
 
 
 import React, { Component } from 'react';
